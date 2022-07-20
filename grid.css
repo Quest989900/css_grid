@@ -26,7 +26,7 @@
     background-color: blue;
 }
 .wrapper div:nth-child(3) {
-    background-color: yellow;
+    background-color: crimson;
 }
 .wrapper div:nth-child(4) {
     background-color: green;
